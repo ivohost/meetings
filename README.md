@@ -1,2 +1,3 @@
-# meetings
-Video communication software with source code and copyrights
+# Video Meetings
+Video communication software with source code and copyrights.
+
